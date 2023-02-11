@@ -78,7 +78,7 @@ export function ProductCard({
               className="w-full overflow-hidden whitespace-nowrap text-ellipsis "
               as="h3"
             >
-              {product.title} By Cedcommerce
+              {product.title} By CedCommerce
             </Text>
             <div className="flex gap-4">
               <Text className="flex gap-4">
